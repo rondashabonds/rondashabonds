@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rondashabonds
-- 👀 I’m interested in ... becoming a cloud architect
+- 👀 I’m interested in ... tech
 - 🌱 I’m currently learning ... java script, python and matlab
 - 📫 How to reach me ... email- rondashabonds@gmail.com
 - 😄 Pronouns: ... she/her 
